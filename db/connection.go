@@ -19,5 +19,4 @@ func DBConnection() {
 		log.Fatal(err)
 	}
 	log.Println("Database connection successfully")
-	
 }
